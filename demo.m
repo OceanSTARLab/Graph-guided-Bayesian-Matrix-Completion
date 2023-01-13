@@ -1,4 +1,4 @@
-%% demo for running the algotirhms: BMCH-ST and BMCG-GH
+%% demo for running the algotirhms: BMCG-ST and BMCG-GH
 clc;clear;
 close all;
 rng(1,'twister');
